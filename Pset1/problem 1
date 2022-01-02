@@ -1,8 +1,0 @@
-s = 'azcbobobegghakl'
-count = 0
-z = -1
-for k in s:
-    z+=1
-    if (s[z] == 'a' or s[z] == 'e' or s[z] == 'i'or s[z] == 'o'or s[z] == 'u'):
-        count+=1
-print('Number of vowels:',count)
